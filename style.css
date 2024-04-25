@@ -1,0 +1,70 @@
+body {
+    font-family: "Signika Negative", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 589;
+    font-style: normal;
+    text-align: center;
+    background-color: #f4f4f4;
+    color: #333;
+    padding-top: 50px;
+}
+
+#logo {
+    height: 100px;
+    width: 100px;
+    border: none;
+    outline: none;
+    border-radius: 50%;
+}
+
+.container {
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .1);
+    padding: 20px;
+}
+
+.error {
+    animation: shake 0.1s linear 10;
+}
+
+.logo-card {
+    margin: 15px;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .1);
+}
+
+.logo-card img {
+    height: 250px;
+    width: 300px;
+    border-radius: 5px;
+}
+
+#logoResults {
+    max-width: 100%;
+    margin-left: 425px;
+}
+
+@keyframes shake {
+    0% {
+        transform: translateX(0);
+    }
+
+    25% {
+        transform: translateX(-2px);
+    }
+
+    50% {
+        transform: translateX(0);
+    }
+
+    75% {
+        transform: translateX(2px);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
