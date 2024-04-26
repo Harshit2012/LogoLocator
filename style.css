@@ -4,8 +4,8 @@ body {
     font-weight: 589;
     font-style: normal;
     text-align: center;
-    background-color: #f4f4f4;
-    color: #333;
+    background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+    color: #fff;
     padding-top: 50px;
 }
 
