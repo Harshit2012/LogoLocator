@@ -12,7 +12,7 @@ The website in which you can search the logo and download it. This website can g
 - Bootstrap
 
 ## Preview
-![Screenshot (37)](https://github.com/Harshit2012/LogoLocator/assets/105143145/f20b485e-baeb-4d29-a18c-269520c94af7)
+![Screenshot (38)](https://github.com/Harshit2012/LogoLocator/assets/105143145/50f25edc-0126-4400-9915-5c0d671e9eae)
 
 ## License
 This repository is under [MIT License](https://github.com/Harshit2012/LogoLocator?tab=MIT-1-ov-file#readme).
