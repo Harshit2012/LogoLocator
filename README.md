@@ -6,7 +6,8 @@ The website in which you can search the logo and download it. This website can g
 
 > [!IMPORTANT]
 >**These logo may be downloaded from this website and used by other before you.**
-> **These logo are not official**
+> [!IMPORTANT]
+> **These logo are not official.**
 
 ## Technology used
 - HTML
